@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+pyserial
+firebase_admin==2.22.0
+requests==2.22.0
+pyrebase

@@ -1,0 +1,1 @@
+Edit the temperature value , i.e , nextTemp > 30 to nextTemp > 60 (survival time min 10 mins) in child_added and child_changed portion present inside script tag at the bottom of the page to disable alert box or vice versa to enable alert box.
