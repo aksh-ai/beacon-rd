@@ -9,7 +9,7 @@ cred = credentials.Certificate('beacon-dddae-firebase-adminsdk-2qj4p-4ab2ce47dd.
 firebase_admin.initialize_app(cred)
 fb = firestore.client()
 config = {
-    "apiKey": "AIzaSyD3_MZ_UEnz3G_cwXBAA9Fv1RZlVqxo2s0",
+    "apiKey": "",
     "authDomain": "beacon-dddae.firebaseapp.com",
     "databaseURL": "https://beacon-dddae.firebaseio.com",
     "projectId": "beacon-dddae",
